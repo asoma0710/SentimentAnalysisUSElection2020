@@ -61,6 +61,10 @@ This will:
 | Biden     | 34,357   | 35,759  | 29,883   |
 
 
+<img src="https://github.com/asoma0710/SentimentAnalysisUSElection2020/blob/main/Results.png" alt="Results" width="600"/>
+
+
+
 ## 🗳 Comparison with 2020 Election Outcome
 Actual Result
 
